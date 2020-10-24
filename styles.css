@@ -1,0 +1,22 @@
+body{
+  font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+  font-size: 100%;
+}
+hr{
+  
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3.5px;
+  width: 4%;
+}
+h1{
+  color: grey;
+}
+h3{
+  color: #66BFBF;
+}
+img{
+  size: 5px;
+}
